@@ -1,1 +1,4 @@
-# DisableSMBv1
+# DisableSMB1
+
+TODO: Enter the cookbook description here.
+
