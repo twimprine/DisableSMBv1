@@ -1,3 +1,6 @@
+# Chef kitchen exclude
+.kitchen/
+
 *.gem
 *.rbc
 /.config
